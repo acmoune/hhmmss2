@@ -1,0 +1,17 @@
+{
+  "name": "hhmmss2",
+  "version": "1.0.0",
+  "description": "Take number of seconds, or a youtube formatted duration and return duration in format 00:00:00",
+  "author": "Chris Moune <chris.moune@epoqee.com> (http://epoqee.com)",
+  "repository": "git://github.com/acmoune/hhmmss2",
+  "main": "index.js",
+  "keywords": [
+    "duration",
+    "seconds",
+    "hhmmss",
+    "nodejs",
+    "javascript",
+    "acmoune"
+  ],
+  "license": "ISC"
+}
